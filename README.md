@@ -9,7 +9,20 @@
 | Project name | Description | Used Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Credits](Credits) | Research of reliable borrowers.| *pandas,* *numpy,* *pymystem3* |
-| [Real estate](Real_estate) | A research analysis of the cost of apartments in St. Petersburg and neighboring settlements was carried out according to data for several years.| *pandas,* *numpy,* *matplotlib* |
+| [Real estate](Real_estate) | Research analysis of the cost of apartments in St. Petersburg and neighboring settlements was carried out according to data for several years.| *pandas,* *numpy,* *matplotlib* |
+| [Telecom](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Tariff recommendation](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Сlient churn](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Study of oil producing regions](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Linear algebra](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Car prices](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Taxi order forecast](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Toxic comments](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Air transportation (SQL)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Age detection (CV)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Console games research](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Gold recovery process](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Final project](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 
 ## Certificate ([PDF version](certificate/diploma_eng.pdf)):
 ![Data Scientist — certificate](/certificate/1page.png)
