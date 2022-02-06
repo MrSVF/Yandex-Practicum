@@ -1,5 +1,5 @@
 ## Yandex-Practicum
 
-## Choosing a promising tariff for a telecom company 
+## Tariff recommendation 
 
-Based on a sample of 500 users of the Megaline company, the behavior of customers for 2018 is analyzed on two tariff plans: "Smart" and "Ultra".
+Comparison of models for solving the problem of binary classification for choosing the optimal tariff for customers of the mobile operator "Megaline".
