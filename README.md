@@ -10,8 +10,8 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Credits](Credits) | Research of reliable borrowers.| *pandas,* *numpy,* *pymystem3* |
 | [Real estate](Real_estate) | Research analysis of the cost of apartments in St. Petersburg and neighboring settlements was carried out according to data for several years.| *pandas,* *numpy,* *matplotlib* |
-| [Telecom](Re) | ear| *pandas,* *numpy,* *matplotlib* |
-| [Tariff recommendation](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Telecom](Telecom) | Based on a sample of 500 users of the Megaline company, the behavior of customers for 2018 is analyzed on two tariff plans: "Smart" and "Ultra". | *pandas,* *numpy,* *seaborn,* *scipy* |
+| [Tariff recommendation](Tariff_recommendation) | Comparison of models for solving the problem of binary classification for choosing the optimal tariff for customers of the mobile operator "Megaline" | *pandas,* *numpy,* *matplotlib,* *sklearn,* *pylab* |
 | [Сlient churn](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Study of oil producing regions](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Linear algebra](Re) | ear| *pandas,* *numpy,* *matplotlib* |
