@@ -17,7 +17,7 @@
 | [Linear algebra](Linear_algebra) | It is necessary to protect the data of clients of the insurance company "Though the Flood". A data conversion method has been developed to make it difficult to recover personal information from them. The correctness of its work is substantiated. | *pandas,* *numpy,* *sklearn* |
 | [Car prices](Car_prices) | Service for the sale of used cars "Not beaten, not beautiful" is developing an application to attract new customers. In it, you can quickly find out the market value of your car. | *pandas,* *numpy,* *matplotlib,* *seaborn,* *sklearn,* *lightgbm,* *catboost* |
 | [Taxi order forecast](Taxi_order) | The options for building machine learning models for predicting the number of taxi orders for the next hour are considered. | *pandas,* *numpy,* *matplotlib,* *statsmodels,* *seaborn,* *sklearn,* *lightgbm,* *catboost,* *xgboost* |
-| [Toxic comments](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Toxic comments](Toxic_comments) | The text classification models that determine the toxicity of the commentary text are considered. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *torch,* *torch,* *transformers,* *nltk* |
 | [Air transportation (SQL)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Age detection (CV)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Console games research](Re) | ear| *pandas,* *numpy,* *matplotlib* |
