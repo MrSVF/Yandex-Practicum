@@ -19,7 +19,7 @@
 | [Taxi order forecast](Taxi_order) | The options for building machine learning models for predicting the number of taxi orders for the next hour are considered. | *pandas,* *numpy,* *matplotlib,* *statsmodels,* *seaborn,* *sklearn,* *lightgbm,* *catboost,* *xgboost* |
 | [Toxic comments](Toxic_comments) | The text classification models that determine the toxicity of the commentary text are considered. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *torch,* *torch,* *transformers,* *nltk* |
 | [Air transportation (SQL)](Air_transportation) | The analysis of passenger demand for flights to cities where the largest cultural festivals are held is carried out. The source of information for the study was the airline database. | *pandas,* *numpy,* *matplotlib,* *scipy* |
-| [Age detection (CV)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Age detection (CV)](Age_detection) | A machine learning model has been created that determines the age of a person from his photo. | *pandas,* *tensorflow,* *matplotlib* |
 | [Console games research](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Gold recovery process](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Final project](Re) | ear| *pandas,* *numpy,* *matplotlib* |
