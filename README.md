@@ -21,7 +21,7 @@
 | [Air transportation (SQL)](Air_transportation) | The analysis of passenger demand for flights to cities where the largest cultural festivals are held is carried out. The source of information for the study was the airline database. | *pandas,* *numpy,* *matplotlib,* *scipy* |
 | [Age detection (CV)](Age_detection) | A machine learning model has been created that determines the age of a person from his photo. | *pandas,* *tensorflow,* *matplotlib* |
 | [Console games research](Console_games) | An analysis of world sales of computer games, user and expert ratings, genres and platforms based on historical data from open sources is presented. The study is based on data up to 2016. | *pandas,* *numpy,* *seaborn,* *scipy,* *plotly* |
-| [Gold recovery process](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Gold recovery process](Gold_recovery) | The project contains the analysis of data on the concentration of metals at different stages of mining and ore refining. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *plotly*  |
 | [Final project](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 
 ## Certificate ([PDF version](certificate/diploma_eng.pdf)):
