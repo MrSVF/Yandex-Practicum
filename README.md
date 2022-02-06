@@ -13,7 +13,7 @@
 | [Telecom](Telecom) | Based on a sample of 500 users of the Megaline company, the behavior of customers for 2018 is analyzed on two tariff plans: "Smart" and "Ultra". | *pandas,* *numpy,* *seaborn,* *scipy* |
 | [Tariff recommendation](Tariff_recommendation) | Comparison of models for solving the problem of binary classification for choosing the optimal tariff for customers of the mobile operator "Megaline". | *pandas,* *numpy,* *matplotlib,* *sklearn,* *pylab* |
 | [Сlient churn](Сlient_churn) | Building a model for solving the binary classification problem for predicting the outflow of Beta-Bank customers. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *plotly* |
-| [Study of oil producing regions](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Study of oil producing regions](Study_oilregs) | The data of oil samples in three regions were considered, where the quality of oil and the volume of its reserves were measured. A machine learning model has been built to determine the region where mining will bring the greatest profit. Possible profits and risks are analyzed using the Bootstrap technique. | *pandas,* *numpy,* *sklearn* |
 | [Linear algebra](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Car prices](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Taxi order forecast](Re) | ear| *pandas,* *numpy,* *matplotlib* |
