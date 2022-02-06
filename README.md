@@ -22,7 +22,7 @@
 | [Age detection (CV)](Age_detection) | A machine learning model has been created that determines the age of a person from his photo. | *pandas,* *tensorflow,* *matplotlib* |
 | [Console games research](Console_games) | An analysis of world sales of computer games, user and expert ratings, genres and platforms based on historical data from open sources is presented. The study is based on data up to 2016. | *pandas,* *numpy,* *seaborn,* *scipy,* *plotly* |
 | [Gold recovery process](Gold_recovery) | The project contains the analysis of data on the concentration of metals at different stages of mining and ore refining. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *plotly*  |
-| [Final project](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Final project](Graduation_project) | The task was set to learn how to predict the outflow of customers of the telecom operator "Notasingledisconnec.com". | *pandas,* *numpy,* *matplotlib,* *seaborn,* *scipy,* *plotly,* *sklearn* |
 
 ## Certificate ([PDF version](certificate/diploma_eng.pdf)):
 ![Data Scientist — certificate](/certificate/1page.png)
