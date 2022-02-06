@@ -20,7 +20,7 @@
 | [Toxic comments](Toxic_comments) | The text classification models that determine the toxicity of the commentary text are considered. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *torch,* *torch,* *transformers,* *nltk* |
 | [Air transportation (SQL)](Air_transportation) | The analysis of passenger demand for flights to cities where the largest cultural festivals are held is carried out. The source of information for the study was the airline database. | *pandas,* *numpy,* *matplotlib,* *scipy* |
 | [Age detection (CV)](Age_detection) | A machine learning model has been created that determines the age of a person from his photo. | *pandas,* *tensorflow,* *matplotlib* |
-| [Console games research](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Console games research](Console_games) | An analysis of world sales of computer games, user and expert ratings, genres and platforms based on historical data from open sources is presented. The study is based on data up to 2016. | *pandas,* *numpy,* *seaborn,* *scipy,* *plotly* |
 | [Gold recovery process](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Final project](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 
