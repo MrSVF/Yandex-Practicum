@@ -18,7 +18,7 @@
 | [Car prices](Car_prices) | Service for the sale of used cars "Not beaten, not beautiful" is developing an application to attract new customers. In it, you can quickly find out the market value of your car. | *pandas,* *numpy,* *matplotlib,* *seaborn,* *sklearn,* *lightgbm,* *catboost* |
 | [Taxi order forecast](Taxi_order) | The options for building machine learning models for predicting the number of taxi orders for the next hour are considered. | *pandas,* *numpy,* *matplotlib,* *statsmodels,* *seaborn,* *sklearn,* *lightgbm,* *catboost,* *xgboost* |
 | [Toxic comments](Toxic_comments) | The text classification models that determine the toxicity of the commentary text are considered. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *torch,* *torch,* *transformers,* *nltk* |
-| [Air transportation (SQL)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
+| [Air transportation (SQL)](Air_transportation) | The analysis of passenger demand for flights to cities where the largest cultural festivals are held is carried out. The source of information for the study was the airline database. | *pandas,* *numpy,* *matplotlib,* *scipy* |
 | [Age detection (CV)](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Console games research](Re) | ear| *pandas,* *numpy,* *matplotlib* |
 | [Gold recovery process](Re) | ear| *pandas,* *numpy,* *matplotlib* |
