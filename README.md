@@ -32,4 +32,4 @@
 
 
 [Colab Badge]:         https://colab.research.google.com/assets/colab-badge.svg
-[Сlient churn]:        https://colab.research.google.com/github.com/MrSVF/Yandex-Practicum/tree/main/Сlient_churn/Сlient%20churn.ipynb
+[Сlient churn]:        https://colab.research.google.com/github.com/MrSVF/Yandex-Practicum/blob/main/Сlient_churn/Сlient%20churn.ipynb
