@@ -31,5 +31,5 @@
 ![Data Scientist — training course](/certificate/2page.png)
 
 
-[Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
-[Сlient churn]:        https://colab.research.google.com/github.com/MrSVF/Yandex-Practicum/tree/main/Сlient_churn.ipynb
+[Colab Badge]:         https://colab.research.google.com/assets/colab-badge.svg
+[Сlient churn]:        https://colab.research.google.com/github.com/MrSVF/Yandex-Practicum/blob/main/Сlient_churn.ipynb
