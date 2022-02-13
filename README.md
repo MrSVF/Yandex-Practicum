@@ -8,6 +8,7 @@
 
 | Project name | Description | Used Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
+| [Age detection (CV)](Age%20detection) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Age detection] | A machine learning model has been created that determines the age of a person from his photo. | *pandas,* *tensorflow,* *matplotlib* |
 | [Credits](Credits) | Research of reliable borrowers.| *pandas,* *numpy,* *pymystem3* |
 | [Real estate](Real_estate) | Research analysis of the cost of apartments in St. Petersburg and neighboring settlements was carried out according to data for several years.| *pandas,* *numpy,* *matplotlib* |
 | [Telecom](Telecom) | Based on a sample of 500 users of the Megaline company, the behavior of customers for 2018 is analyzed on two tariff plans: "Smart" and "Ultra". | *pandas,* *numpy,* *seaborn,* *scipy* |
@@ -19,7 +20,6 @@
 | [Taxi order forecast](Taxi_order) | The options for building machine learning models for predicting the number of taxi orders for the next hour are considered. | *pandas,* *numpy,* *matplotlib,* *statsmodels,* *seaborn,* *sklearn,* *lightgbm,* *catboost,* *xgboost* |
 | [Toxic comments](Toxic_comments) | The text classification models that determine the toxicity of the commentary text are considered. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *torch,* *torch,* *transformers,* *nltk* |
 | [Air transportation (SQL)](Air_transportation) | The analysis of passenger demand for flights to cities where the largest cultural festivals are held is carried out. The source of information for the study was the airline database. | *pandas,* *numpy,* *matplotlib,* *scipy* |
-| [Age detection (CV)](Age%20detection) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Age detection] | A machine learning model has been created that determines the age of a person from his photo. | *pandas,* *tensorflow,* *matplotlib* |
 | [Console games research](Console_games) | An analysis of world sales of computer games, user and expert ratings, genres and platforms based on historical data from open sources is presented. The study is based on data up to 2016. | *pandas,* *numpy,* *seaborn,* *scipy,* *plotly* |
 | [Gold recovery process](Gold_recovery) | The project contains the analysis of data on the concentration of metals at different stages of mining and ore refining. | *pandas,* *numpy,* *matplotlib,* *sklearn,* *plotly*  |
 | [Final project](Graduation_project) | The task was set to learn how to predict the outflow of customers of the telecom operator "Notasingledisconnec.com". | *pandas,* *numpy,* *matplotlib,* *seaborn,* *scipy,* *plotly,* *sklearn* |
